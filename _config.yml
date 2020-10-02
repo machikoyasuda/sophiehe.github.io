@@ -3,7 +3,7 @@ github: is\_project\_page:false
 title: Hi, I'm Sophie He.
 description: Shanghai-born writer from Los Angeles. Currently a Junior Fellow at Washington University in St. Louis, where I teach creative writing.
 includes:
-  - sophiehe.github.io/portfolio/reaction.md
-  - sophiehe.github.io/portfolio/fx.md
-  - sophiehe.github.io/portfolio/netflix.md
-  - sophiehe.github.io/portfolio/mediatemple.md
+  - reaction.md
+  - fx.md
+  - netflix.md
+  - mediatemple.md
