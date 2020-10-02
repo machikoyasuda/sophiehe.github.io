@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: Hi, I'm Sophie He.
 description: Shanghai-born writer from Los Angeles. Currently a Junior Fellow at Washington University in St. Louis, where I teach creative writing.
-include:
+includes:
   - portfolio/reaction.md
   - portfolio/fx.md
   - portfolio/netflix.md
