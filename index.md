@@ -22,13 +22,13 @@
 
 [Levi's](https://www.levi.com/US/en_US/blog/article/creative-connections/)
 
-[Reaction Commerce](http://reactioncommerce.com)
+[Reaction Commerce](http://sophiehe.github.io/portfolio/reaction.md)
 
-[FX](https://twitter.com/atlantafx?lang=en)
+[FX](http://sophiehe.github.io/portfolio/fx.md)
 
-[Netflix](https://twitter.com/bojackhorseman?lang=en)  
+[Netflix](http://sophiehe.github.io/portfolio/netflix.md)  
 
-[Media Temple](http://mediatemple.net)
+[Media Temple](http://sophiehe.github.io/portfolio/mediatemple.md)
 
 ### Contact me
 
