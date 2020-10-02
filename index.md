@@ -1,4 +1,4 @@
-I’m a Shanghai-born writer, living and working between Los Angeles and St. Louis, MO. Currently a Junior Fellow at Washington University in St. Louis, where I teach creative writing. My work has been published or is forthcoming in *Black Warrior Review*, *DIAGRAM*, *Catapult*, *Lucky Peach*, and elsewhere.
+I'm currently a Junior Fellow in the MFA program at Washington University in St. Louis, where I teach creative writing. I'm also a freelance copywriter for clients big and small. 
 
 ### Selected publications 
 
