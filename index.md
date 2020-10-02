@@ -1,3 +1,5 @@
+![Greetings!](sophiepic.jpg)
+
 ### Selected publications 
 
 "[Creative Nonfiction Writing Prompts, Fall 2020](https://www.mcsweeneys.net/articles/creative-nonfiction-writing-prompts-fall-2020)," *McSweeney's Internet Tendency* 
