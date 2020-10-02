@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+I’m a Shanghai-born writer, living and working between Los Angeles and St. Louis, MO. Currently a Junior Fellow at Washington University in St. Louis, where I teach creative writing. My work has been published or is forthcoming in *Black Warrior Review*, *DIAGRAM*, *Catapult*, *Lucky Peach*, and elsewhere.
 
-You can use the [editor on GitHub](https://github.com/sophiehe/sophiehe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Selected publications 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"[Creative Nonfiction Writing Prompts, Fall 2020](https://www.mcsweeneys.net/articles/creative-nonfiction-writing-prompts-fall-2020)," *McSweeney's Internet Tendency* 
 
-### Markdown
+"[Chinatownland](https://bwr.ua.edu/2019-nonfiction-contest-runner-up-sophie-he/)," *Black Warrior Review* (2019 BWR Nonfiction Contest runner-up)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"[Taglines](http://thediagram.com/19_6/he.html)," *DIAGRAM* 
 
-```markdown
-Syntax highlighted code block
+"[The Canadians](https://cosmonautsavenue.com/sophie-he-nonfiction/)," *Cosmonauts Avenue* (Editors' Pick at [Longreads](https://longreads.com/picks/authors/sophie-he/))
 
-# Header 1
-## Header 2
-### Header 3
+“[What Wong Kar-wai’s Films Meant to Young Asians in America](https://catapult.co/stories/wong-kar-wai-film-asians-america-sophie-he),” *Catapult*   
 
-- Bulleted
-- List
+“[Gabriella Sanchez Explores the Duality of Mexican-American Culture Through Art](https://hellogiggles.com/lifestyle/gabriella-sanchez-the-blend/),” HelloGiggles  
 
-1. Numbered
-2. List
+“[The Unspoken Cool of Flamin’ Hot Cheetos](http://web.archive.org/web/20170604140148/http://luckypeach.com/unspoken-cool-flamin-hot-cheetos/),” *Lucky Peach* 
 
-**Bold** and _Italic_ and `Code` text
+“[An Interview with YACHT](http://lacanvas.com/interview-yacht-on-siri-taylor-swift-and-the-dystopian-future/),” *LA Canvas*
 
-[Link](url) and ![Image](src)
-```
+### Selected campaigns 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Levi's](https://www.levi.com/US/en_US/blog/article/creative-connections/)
 
-### Jekyll Themes
+[Reaction Commerce](http://reactioncommerce.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sophiehe/sophiehe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[FX](https://twitter.com/atlantafx?lang=en)
 
-### Support or Contact
+[Netflix](https://twitter.com/bojackhorseman?lang=en)  
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Media Temple](http://mediatemple.net)
+
+### Contact me
+
+Want to gab? Shoot me an [email](mailto:sophiehe.lco@gmail.com) or send me a [tweet](https://twitter.com/sophiehe). 🖤
