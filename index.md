@@ -1,5 +1,3 @@
-I'm currently a Junior Fellow in the MFA program at Washington University in St. Louis, where I teach creative writing. I'm also a freelance copywriter for clients big and small. 
-
 ### Selected publications 
 
 "[Creative Nonfiction Writing Prompts, Fall 2020](https://www.mcsweeneys.net/articles/creative-nonfiction-writing-prompts-fall-2020)," *McSweeney's Internet Tendency* 
