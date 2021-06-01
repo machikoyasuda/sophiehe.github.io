@@ -2,6 +2,8 @@
 
 ### Selected publications 
 
+"[How to Write 'Death'](http://notokensjournal.com/non-fiction/how-to-write-death/)," *No Tokens*
+
 "[The Smell](https://www.essaydaily.org/2021/02/the-midwessay-sophie-he-smell.html)," *Essay Daily*
 
 "[Creative Nonfiction Writing Prompts, Fall 2020](https://www.mcsweeneys.net/articles/creative-nonfiction-writing-prompts-fall-2020)," *McSweeney's Internet Tendency* 
