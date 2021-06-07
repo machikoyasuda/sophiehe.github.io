@@ -1,3 +1,5 @@
+![Greetings!](sophiepic.jpg)
+
 ### Selected campaigns 
 
 [Levi's](https://www.levi.com/US/en_US/blog/article/creative-connections/)
