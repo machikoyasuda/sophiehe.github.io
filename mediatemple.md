@@ -6,7 +6,6 @@ I helped develop and launch Media Temple’s email marketing program. I also wro
 
 ![Newsletter](mtnewsletter.png)
  
-
 ### Landing page copy
 
 I ideated and executed on copy for Media Temple's customer referral and partnership program. I also managed the thing, but that's another story from a former life. 
@@ -15,6 +14,6 @@ I ideated and executed on copy for Media Temple's customer referral and partners
 
 ### Banner ads
 
-I wrote optimized-for-ROI banner ad copy. Because $$$$ is important.
+I wrote optimized-for-ROI banner ad copy. Because $ is important.
 
 ![Banner ads](mtbannerads.png)
