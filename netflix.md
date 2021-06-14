@@ -1,10 +1,8 @@
-A washed-up cartoon horse attempts to make his way back into the Hollywood limelight. What better place to validate his craving for attention than on the Internet? 
-
-In support of Netflix's Season 2 premiere, we broadcasted BoJack’s cynical thoughts across a variety of digital platforms through viral tweets, illustrations, and branded content. 
+A washed-up cartoon horse attempts to make his way back into the Hollywood limelight. What better place to validate his craving for attention than the Internet? For Netflix's cult show _BoJack Horseman_, I crafted copy across a variety of social platforms in the form of character profiles, viral tweets, and branded asset copy. 
 
 ### LinkedIn 
 
-We expanded BoJack's universe beyond traditional social media by creating LinkedIn profiles for the show's colorful supporting cast of professionals: a feline talent agent and a business executive (actually, he's just three kids stacked on top of each other). 
+I expanded BoJack's universe beyond traditional social media by creating LinkedIn profiles for the show's colorful supporting cast of professionals: a feline talent agent and a business executive (actually, he's just three kids stacked on top of each other). 
 
 ![LinkedIn](linkedin.png)
 
