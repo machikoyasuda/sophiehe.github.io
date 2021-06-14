@@ -1,4 +1,4 @@
-[Reaction Commerce](https://reactioncommerce.com) is a modern, open source commerce solution built for enterprise retailers and technology-driven innovators. As content manager, I was in charge of strategy and execution of all editorial, branding, and video messaging. 
+[Reaction Commerce](https://reactioncommerce.com) (now Mailchimp Open Commerce) is a modern, open source commerce solution built for enterprise retailers and technology-driven innovators. As content manager, I was in charge of ideation, strategy, and execution for all things branding, editorial, and social. 
 
 ![Website messaging](website1.png)
 
