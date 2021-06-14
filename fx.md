@@ -1,4 +1,4 @@
-Produced by Donald Glover, *Atlanta* is a groundbreaking new dramedy series about two cousins trying to make it in ATL. I helped establish the show's irreverent voice and tone across Facebook and Twitter; the accounts have since gone viral.     
+Now in its third season, Donald Glover's *Atlanta* is a groundbreaking dramedy series about two cousins trying to make it in ATL. I helped establish the show's irreverent voice and tone across Facebook and Twitter. The accounts have since gone viral.     
 
 <b>Twitter
 </b>
