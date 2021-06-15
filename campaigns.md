@@ -16,6 +16,7 @@
 
 [Media Temple](mediatemple.md)
 
+
 ### Contact me
 
-Want to gab? Shoot me an [email](mailto:sophiehe.lco@gmail.com) or send me a [tweet](https://twitter.com/sophiehe). 🖤
+Want to gab? Shoot me an [email](mailto:sophiehe.lco@gmail.com) or send me a [tweet](https://twitter.com/sophiehe). If you're interested, you can read more of my longform writing [here](http://sophie-he.com/). 🖤
