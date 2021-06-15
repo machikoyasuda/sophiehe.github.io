@@ -14,7 +14,7 @@
 
 [![Editorial](blogpost.png)](https://web.archive.org/web/20200513192326/https://blog.reactioncommerce.com/)
 
-![Editorial 2](reactionblog.png)
+![Editorial 2](reactionblog1.png)
 
 **Video**
 
