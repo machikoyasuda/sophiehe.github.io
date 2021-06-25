@@ -16,6 +16,8 @@
 
 “[What Wong Kar-wai’s Films Meant to Young Asians in America](https://catapult.co/stories/wong-kar-wai-film-asians-america-sophie-he),” *Catapult*   
 
+"[Gabriella Sanchez Explores the Duality of Mexican American Culture Through Art](https://hellogiggles.com/lifestyle/gabriella-sanchez-the-blend/)," *HelloGiggles*
+
 “[The Unspoken Cool of Flamin’ Hot Cheetos](http://web.archive.org/web/20170604140148/http://luckypeach.com/unspoken-cool-flamin-hot-cheetos/),” *Lucky Peach* (RIP) 
 
 ### Contact me
