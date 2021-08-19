@@ -3,8 +3,8 @@ For [Levi's Made & Crafted](https://www.levi.com/US/en_US/blog/), I conducted in
 
 ![Levi's](levis1.png)
 
-![Levi's](levis2.png)
+![Levi's](levis2copy.png)
 
-![Levi's](levis3.png)
+![Levi's](levis3copy.png)
 
-![Levi's](levis4.png)
+![Levi's](levis4copy.png)
