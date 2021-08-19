@@ -1,4 +1,4 @@
-For [Levi's Made & Crafted](https://www.levi.com/US/en_US/blog/), I conducted interviews with talent and crafted short copy across the brand's digital properties.
+For [Levi's Made & Crafted Presents](https://www.levi.com/US/en_US/blog/), I conducted interviews with talent and crafted short profile copy across the brand's digital properties.
 
 
 ![Levi's](levis1.png)
